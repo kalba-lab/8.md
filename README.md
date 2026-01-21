@@ -14,7 +14,7 @@ Simple .md viewer for macOS.
 
 ## Install
 
-Download from [kalba.dev/8md](https://kalba.dev/8md)
+[Download latest release](https://github.com/kalba-lab/8.md/releases/latest)
 
 ## License
 
